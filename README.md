@@ -9,7 +9,7 @@ The inspiration comes from the experience of trying to memorize these formulas b
 ## How to play
 
 ### Demo
-![img](https://github.com/CynthiaLiu0805/maths_game/blob/master/img/2.gif)
+![img](https://github.com/CynthiaLiu0805/maths_game/blob/master/img/demo.gif)
 
 
 
