@@ -8,7 +8,12 @@ The inspiration comes from the experience of trying to memorize these formulas b
 
 ## How to play
 
-### Good to know before start: 
+### Demo
+![img](https://github.com/CynthiaLiu0805/maths_game/blob/master/img/math_game.gif)
+
+
+
+### Detailed rules: 
 
 1. Click start to start timing
 
